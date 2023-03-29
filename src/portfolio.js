@@ -1,0 +1,26 @@
+export const work = [
+  {
+    link:"#",
+    work:"/web1.png"
+  },
+  {
+    link:"#",
+    work:"/web2.png"
+  },
+  {
+    link:"#",
+    work:"/web3.png"
+  },
+  {
+    link:"#",
+    work:"/web4.png"
+  },
+  {
+    link:"#",
+    work:"/web5.png"
+  },
+  {
+    link:"#",
+    work:"/web5.png"
+  },
+]
